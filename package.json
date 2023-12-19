@@ -1,0 +1,21 @@
+{
+  "name": "esp32-roms",
+  "version": "1.20231219.0",
+  "description": "ESP32 series ROM files",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wokwi/esp32-roms"
+  },
+  "scripts": {
+    "prepublish": "tsc index.js --declaration --allowJs --emitDeclarationOnly"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
