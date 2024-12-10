@@ -5,7 +5,7 @@ export const roms = {
   'esp32-c3': 'esp32c3-rom.bin',
   'esp32-c6': 'esp32c6-rom.bin',
   'esp32-h2': 'esp32h2-rom.bin',
-  'esp32-p4': 'esp32p4-rom-preview.bin',
+  'esp32-p4': 'esp32p4-rom.bin',
 };
 
 export const symbols = {
@@ -15,5 +15,5 @@ export const symbols = {
   'esp32-c3': 'esp32c3-rom.sym',
   'esp32-c6': 'esp32c6-rom.sym',
   'esp32-h2': 'esp32h2-rom.sym',
-  'esp32-p4': 'esp32p4-rom-preview.sym',
+  'esp32-p4': 'esp32p4-rom.sym',
 };
