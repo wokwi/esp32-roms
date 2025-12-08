@@ -5,6 +5,7 @@ export const roms: {
     'esp32-c3': string;
     'esp32-c6': string;
     'esp32-h2': string;
+    'esp32-p4': string;
 };
 export const symbols: {
     esp32: string;
@@ -13,4 +14,5 @@ export const symbols: {
     'esp32-c3': string;
     'esp32-c6': string;
     'esp32-h2': string;
+    'esp32-p4': string;
 };
