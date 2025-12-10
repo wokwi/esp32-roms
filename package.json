@@ -1,6 +1,6 @@
 {
   "name": "esp32-roms",
-  "version": "1.20251208.0",
+  "version": "1.20251210.0",
   "description": "ESP32 series ROM files",
   "main": "index.js",
   "types": "index.d.ts",
