@@ -7,7 +7,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wokwi/esp32-roms"
+    "url": "git+https://github.com/wokwi/esp32-roms.git"
   },
   "scripts": {
     "prepublish": "tsc index.js --declaration --allowJs --emitDeclarationOnly"
