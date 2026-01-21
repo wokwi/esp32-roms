@@ -9,6 +9,13 @@ export const roms = {
   'esp32-p4': 'esp32p4-rom.bin',
 };
 
+export const romRevisions = {
+  'esp32-p4': [
+    { version: '1.0', file: 'esp32p4-v1.0-rom.bin', name: 'esp32p4-eco2-20240710' },
+    { version: '3.0', file: 'esp32p4-rom.bin', name: 'esp32p4-eco5-20250430' },
+  ],
+};
+
 export const symbols = {
   esp32: 'esp32-v3-rom.sym',
   'esp32-s2': 'esp32s2-rom.sym',
